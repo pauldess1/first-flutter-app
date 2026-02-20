@@ -6,7 +6,7 @@ This repository tracks my journey into the **Dart/Flutter** ecosystem. Following
 This is my implementation of the official **Flutter Google Codelab**. The goal is to build a modern, responsive application that generates creative name pairs (like *lightstream* or *graypine*).
 
 <p align="center">
-  <img src="./demo.gif" alt="Animated Demo" width="300"/>
+  <img src="./demo.gif" alt="Animated Demo" width="600"/>
 </p>
 
 ### Key Features
